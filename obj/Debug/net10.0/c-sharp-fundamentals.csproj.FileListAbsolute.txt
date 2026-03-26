@@ -12,3 +12,4 @@ C:\Projects\mine\c-sharp-fundamentals\obj\Debug\net10.0\refint\c-sharp-fundament
 C:\Projects\mine\c-sharp-fundamentals\obj\Debug\net10.0\c-sharp-fundamentals.pdb
 C:\Projects\mine\c-sharp-fundamentals\obj\Debug\net10.0\c-sharp-fundamentals.genruntimeconfig.cache
 C:\Projects\mine\c-sharp-fundamentals\obj\Debug\net10.0\ref\c-sharp-fundamentals.dll
+C:\Projects\mine\c-sharp-fundamentals\obj\Debug\net10.0\c-sharp-fundamentals.sourcelink.json
