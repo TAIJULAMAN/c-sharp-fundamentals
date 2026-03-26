@@ -1,0 +1,14 @@
+C:\Projects\mine\c-sharp-fundamentals\bin\Debug\net10.0\c-sharp-fundamentals.exe
+C:\Projects\mine\c-sharp-fundamentals\bin\Debug\net10.0\c-sharp-fundamentals.deps.json
+C:\Projects\mine\c-sharp-fundamentals\bin\Debug\net10.0\c-sharp-fundamentals.runtimeconfig.json
+C:\Projects\mine\c-sharp-fundamentals\bin\Debug\net10.0\c-sharp-fundamentals.dll
+C:\Projects\mine\c-sharp-fundamentals\bin\Debug\net10.0\c-sharp-fundamentals.pdb
+C:\Projects\mine\c-sharp-fundamentals\obj\Debug\net10.0\c-sharp-fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\mine\c-sharp-fundamentals\obj\Debug\net10.0\c-sharp-fundamentals.AssemblyInfoInputs.cache
+C:\Projects\mine\c-sharp-fundamentals\obj\Debug\net10.0\c-sharp-fundamentals.AssemblyInfo.cs
+C:\Projects\mine\c-sharp-fundamentals\obj\Debug\net10.0\c-sharp-fundamentals.csproj.CoreCompileInputs.cache
+C:\Projects\mine\c-sharp-fundamentals\obj\Debug\net10.0\c-sharp-fundamentals.dll
+C:\Projects\mine\c-sharp-fundamentals\obj\Debug\net10.0\refint\c-sharp-fundamentals.dll
+C:\Projects\mine\c-sharp-fundamentals\obj\Debug\net10.0\c-sharp-fundamentals.pdb
+C:\Projects\mine\c-sharp-fundamentals\obj\Debug\net10.0\c-sharp-fundamentals.genruntimeconfig.cache
+C:\Projects\mine\c-sharp-fundamentals\obj\Debug\net10.0\ref\c-sharp-fundamentals.dll
